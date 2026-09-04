@@ -1,6 +1,21 @@
-# Merny
-This is a repo containing my Fullstack app used for my learning and practicing
+# Code Execution & Snippet Sharing Platform
 
-here is some reward to yourself, work on it and master the topics, enjoy the motivation below
+A mini LeetCode / JSFiddle clone for posting, safely executing, and sharing JavaScript snippets using isolated Docker containers.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+## 🗃️ Tech Stack(change it as per requirements)
+
+    Frontend: React, Monaco Editor
+
+    Backend: Node.js, Express, Docker (via child_process)
+
+    Database: MongoDB
+
+## ⚡️Getting Started
+
+### Prerequisites (for now)
+
+    Node.js & npm installed
+
+### Clone & Install Dependencies
+        cd server
+        npm install 
