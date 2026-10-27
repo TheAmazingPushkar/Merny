@@ -1,2 +1,5 @@
-I have yet to learn properly about config, and other stuff, so ill start properly a while later
-Im going to implement this as a proper startup level project and prepare for user handling and even revenue potential.
+# My Airbnb Clone Project
+
+## How to Start the project
+>uv sync
+make sure u have uv, ruff extension
